@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MoreGit.Darnell Otterson.f22acedd-ba50-4d9f-9a30-573af6eb1f29" Version="1.0" Language="en-US" Publisher="Darnell Otterson" />
+    <Identity Id="f22acedd-ba50-4d9f-9a30-573af6eb1f29" Version="1.0" Language="en-US" Publisher="Darnell Otterson" />
     <DisplayName>MoreGit</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Description xml:space="preserve">A simple Visual Studio Extension to add more Git support</Description>
+    <License>LICENSE</License>
+    <ReleaseNotes>README.md</ReleaseNotes>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0]" />
